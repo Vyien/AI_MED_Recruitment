@@ -1,0 +1,10 @@
+.venv/
+.env/
+
+.idea/
+
+.uv_cache/
+
+__pycache__/
+
+.ipynb_checkpoints/
