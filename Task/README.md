@@ -1,0 +1,3 @@
+# Solution overview
+
+As someone new to machine learning, I chose to explore and implement a range of classical algorithms to better understand different modeling techniques and their behavior. The data was preprocessed and split into training and test sets, and each model was evaluated using cross-validation and later on standard classification metrics. I have also implemented a Voting Classifier connecting all of my models together. This approach allowed me to learn as much as possible while solving this problem. However, it was often quite difficult to spot anything sensible due to extremely low amount of data ;)
